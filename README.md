@@ -16,7 +16,7 @@ SecurePass Manager is a secure, user-friendly password management application bu
 
 ## Screenshots
 
-[Add screenshots of your application here]
+![SecurePass Manager](https://sbist.com.np/securepass_manager/images/products/product4.png)
 
 ## Requirements
 
